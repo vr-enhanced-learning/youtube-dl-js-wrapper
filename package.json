@@ -1,7 +1,7 @@
 {
 	"name": "youtube-dl-js-wrapper",
 	"packageName": "youtube-dl-js-wrapper",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "youtube-dl wrapper with JS",
 	"main": "index.js",
 	"scripts": {

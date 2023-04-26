@@ -1,5 +1,6 @@
 {
 	"name": "youtube-dl-js-wrapper",
+	"packageName": "youtube-dl-js-wrapper",
 	"version": "1.0.0",
 	"description": "youtube-dl wrapper with JS",
 	"main": "index.js",
@@ -11,8 +12,8 @@
 		"type": "git",
 		"url": "git+https://github.com/vr-enhanced-learning/youtube-dl-js-wrapper.git"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": ["youtube-dl", "wrapper", "youtube-dl-wrapper", "youtube-dl-js-wrapper", "youtube-dl-js"],
+	"author": "tharunoptimus",
 	"license": "ISC",
 	"dependencies": {
 		"bin-version-check": "~5.0.0",
